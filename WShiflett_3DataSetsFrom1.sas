@@ -1,9 +1,9 @@
 /**********************************************************************************/
-/* File Name: Wshiflett_HW7.sas												  */
-/* Created by: William Shiflett 												  */
-/* Created on: 6/26/16															  */
-/* Purpose: Complete Assignment 7							 					  */
-/* Last Run: 6/26/16 															  */
+/* File Name: Wshiflett_HW7.sas							  */
+/* Created by: William Shiflett 					          */
+/* Created on: 6/26/16								  */
+/* Purpose: Create three data sets				                  */
+/* Last Run: 6/26/16 								  */
 /**********************************************************************************/
 
 /**********************************/

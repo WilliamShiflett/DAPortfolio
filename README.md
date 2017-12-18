@@ -1,4 +1,4 @@
-# DAPortfolio
+# Data Analyst Portfolio
 
 Welcome.
 
